@@ -1,0 +1,17 @@
+Nome: Marcos Paulo da Silva
+
+Idade: 17
+
+Conhecimento Técnico: Meu conhecimento
+técnico é somente Desenvolvimento de Sistemas que
+estou estudando agora, que é este curso, mais tenho
+muita noção já sobre a área, e também sobre a tecnologia
+relacionada a Computador desde meus 6 anos de idade.
+
+Mora com: Os pais.
+
+Gosta de: Jogar, fazer academia, estudar o que me interessa
+e o que me da futuro. 
+
+Trabalho: Não trabalho, mais gostaria
+de trabalhar na área de front-end.
