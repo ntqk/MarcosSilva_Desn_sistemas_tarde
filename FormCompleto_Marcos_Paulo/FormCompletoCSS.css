@@ -1,0 +1,57 @@
+
+h1 {
+    color: #FFA500;
+    text-align: center;
+}
+
+
+form {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #FFA500;
+    border-radius: 10px;
+}
+
+
+input[type="text"], input[type="password"], input[type="file"], select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+input[type="submit"], input[type="reset"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, input[type="reset"]:hover {
+    background-color: #45a049;
+}
+
+
+table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+}
+
+fieldset {
+    margin: 20px 0;
+}
+
+.welcome {
+    text-align: center; /* Centraliza o texto */
+    margin-top: 10px; /* Adiciona um espaço acima do texto */
+}
